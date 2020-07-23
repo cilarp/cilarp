@@ -8,7 +8,7 @@ I’m currently learning __Rust__ and I really love it! <br>Soon, if I could, I 
 ### Lately
 Now, I wanna make GUI app or server with Rust!
 
-### Feel free to contact with me 😄
+### Plz feel free to contact with me 😄
 
 <!--
 **cilarp/cilarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
