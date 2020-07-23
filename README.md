@@ -6,7 +6,8 @@ And I'm 16 years old.<br>
 I’m currently learning __Rust__ and I really love it! <br>Soon, if I could, I would make lots of things, especially os with Rust.
 
 ### Lately
-Now, I wanna make GUI app or server with Rust!
+Now, I'll make packet_capture with Rust! 
+And after that,I wanna make GUI app or server with Rust!
 
 ### Plz feel free to contact with me 😄
 
