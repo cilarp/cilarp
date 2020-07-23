@@ -1,4 +1,5 @@
-### Hi there 👋
+# Thanks for visiting my bio
+####  I’m currently learning Rust and I really love it! Soon, if I could, I would make lots of things, especially os with Rust.
 
 <!--
 **cilarp/cilarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
