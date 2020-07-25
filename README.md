@@ -3,6 +3,7 @@
 I'm __cilarp__.<br>
 I'm a h.s student in Osaka,Jp.<br>
 And I'm 16 years old.<br>
+Now, I'm interested in procon and a low level layer and ctf!
 I’m currently learning __Rust__ and I really love it __!__ <br>Soon, if I could, I would make lots of things, especially os with Rust __!__.
 
 ### Lately
